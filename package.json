@@ -1,0 +1,32 @@
+{
+  "name": "180dc-upc-landing",
+  "version": "1.0.0",
+  "description": "Institutional landing page for 180 Degrees Consulting UPC - Universidad Peruana de Ciencias Aplicadas",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000",
+    "preview": "npx serve . -l 8080"
+  },
+  "keywords": [
+    "landing-page",
+    "frontend",
+    "html5",
+    "css3",
+    "vanilla-javascript",
+    "intersection-observer",
+    "responsive-design",
+    "accessibility",
+    "portfolio",
+    "upc",
+    "180dc"
+  ],
+  "author": "JulioXC4",
+  "license": "MIT",
+  "homepage": "https://julioxc4.github.io/180dc-upc-ns/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JulioXC4/180dc-upc-ns.git"
+  }
+}
