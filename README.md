@@ -1,171 +1,141 @@
-# 180 Degrees Consulting UPC — Landing Page Institucional
+# 180 Degrees Consulting UPC — Landing Page
 
-[![Live Demo](https://img.shields.io/badge/Demo%20en%20Vivo-GitHub%20Pages-4d9136?style=for-the-badge&logo=github&logoColor=white)](https://julioxc4.github.io/180dc-upc-ns/)
-[![Build Status](https://img.shields.io/badge/CI%20Status-Passing-success?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/JulioXC4/180dc-upc-ns/actions)
-[![Tech Stack](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20Vanilla%20JS-191b1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/JulioXC4/180dc-upc-ns)
-[![Zero Dependencies](https://img.shields.io/badge/Dependencies-0%20Runtime%20Deps-80dc54?style=for-the-badge&logoColor=191b1a)](https://github.com/JulioXC4/180dc-upc-ns)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-4d9136?style=flat-square)](https://julioxc4.github.io/180dc-upc-ns/)
+[![CI](https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square)](https://github.com/JulioXC4/180dc-upc-ns/actions)
+[![Stack](https://img.shields.io/badge/Stack-HTML5%20%2F%20CSS3%20%2F%20ES6+-191b1a?style=flat-square)](https://github.com/JulioXC4/180dc-upc-ns)
+[![Dependencies](https://img.shields.io/badge/Dependencies-0%20runtime-80dc54?style=flat-square)](https://github.com/JulioXC4/180dc-upc-ns)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-> **Solución frontend de alto rendimiento para el capítulo de la Universidad Peruana de Ciencias Aplicadas (UPC) de 180 Degrees Consulting en Lima, Perú.**  
-> Diseñada y desarrollada para presentar la identidad del capítulo local, transmitir credibilidad estratégica, exhibir al equipo consultor y canalizar solicitudes de organizaciones sociales y postulantes universitarios.
-
----
-
-## 🌐 Enlaces Rápidos
-
-- 🚀 **Despliegue Oficial en GitHub Pages:** [https://julioxc4.github.io/180dc-upc-ns/](https://julioxc4.github.io/180dc-upc-ns/)
-- 📦 **Repositorio:** [JulioXC4/180dc-upc-ns](https://github.com/JulioXC4/180dc-upc-ns)
-- 🏛️ **Capítulo Oficial Global:** [180dc.org/branches/universidad-peruana-de-ciencias-aplicadas](https://www.180dc.org/branches/universidad-peruana-de-ciencias-aplicadas)
+Landing page institucional para el capítulo de la Universidad Peruana de Ciencias Aplicadas (UPC) de 180 Degrees Consulting (Lima, Perú). El sitio comunica la misión del capítulo, presenta al equipo directivo y canaliza el contacto tanto para organizaciones que buscan consultoría pro bono como para estudiantes universitarios interesados en postular.
 
 ---
 
-## 📸 Demostración Visual
+## Enlaces
+
+- Demo en GitHub Pages: [https://julioxc4.github.io/180dc-upc-ns/](https://julioxc4.github.io/180dc-upc-ns/)
+- Repositorio: [https://github.com/JulioXC4/180dc-upc-ns](https://github.com/JulioXC4/180dc-upc-ns)
+- Página oficial de la red 180DC: [180dc.org/branches/universidad-peruana-de-ciencias-aplicadas](https://www.180dc.org/branches/universidad-peruana-de-ciencias-aplicadas)
+
+---
+
+## Vistas del Proyecto
 
 ### Vista Principal (Hero Section & Navegación Desktop)
 ![Desktop Hero](docs/screenshots/desktop-hero.png)
 
-### Experiencia Multiplataforma & Mobile Responsive
-| Desktop: Contenido y Secciones | Mobile: Hero & Menú Lateral Accesible |
+### Navegación y Adaptación Mobile
+| Desktop: Contenido y Secciones | Mobile: Navegación y Menú |
 | :---: | :---: |
 | ![Desktop Scrolled](docs/screenshots/desktop-scrolled.png) | <img src="docs/screenshots/mobile-menu.png" width="300" alt="Mobile Menu" /> |
 
-| Mobile: Experiencia de Lectura | Mobile: Navegación Fluida |
+| Mobile: Portada | Mobile: Vista de Secciones |
 | :---: | :---: |
 | <img src="docs/screenshots/mobile-hero.png" width="300" alt="Mobile Hero" /> | <img src="docs/screenshots/mobile-scrolled.png" width="300" alt="Mobile Scrolled" /> |
 
 ---
 
-## 🎯 Contexto y Propósito del Proyecto
+## Contexto del Proyecto
 
-### ¿Qué es 180 Degrees Consulting?
-**180 Degrees Consulting (180DC)** es la consultora estudiantil pro bono más grande del mundo, con presencia en más de 35 países. Conecta a estudiantes universitarios de alto rendimiento con organizaciones sin fines de lucro y empresas con propósito social para ofrecer asesoría estratégica de impacto.
+180 Degrees Consulting es una red global de consultoría estudiantil enfocada en asesorar a organizaciones sin fines de lucro y proyectos de impacto social.
 
-### El Capítulo UPC (Perú)
-Este proyecto representa específicamente al capítulo de la **Universidad Peruana de Ciencias Aplicadas (UPC)** en Lima, Perú. El sitio web fue concebido para resolver una necesidad de comunicación clave:
-1. **Identidad Local con Estándar Global:** Proyectar la seriedad y el respaldo de la red global 180DC articulada con la personalidad, energía y contexto de la comunidad estudiantil de la UPC.
-2. **Propuesta de Valor Clara:** Explicar cómo la consultoría pro bono ayuda a organizaciones con impacto a superar desafíos en diagnóstico, crecimiento, comunicación y sostenibilidad.
-3. **Conversión y Contacto Directo:** Diseñar llamadas a la acción (*CTAs*) con intenciones diferenciadas: una para organizaciones que necesitan asesoría y otra para estudiantes de la UPC interesados en sumarse al equipo.
-4. **Transparencia Institucional:** Exponer al equipo directivo real del capítulo con sus roles oficiales y enlazar la actividad verificable de la comunidad.
+Este repositorio corresponde a la landing page independiente del **capítulo de la Universidad Peruana de Ciencias Aplicadas (UPC)** en Lima, Perú. El proyecto atiende tres objetivos concretos:
+
+1. **Posicionamiento local:** Diferenciar la presencia del capítulo de la UPC dentro del marco de la red global, mostrando al equipo real y actividades locales.
+2. **Claridad en servicios:** Explicar los cuatro ejes de consulta (diagnóstico estratégico, crecimiento, comunicación y sostenibilidad) indicando claramente que los alcances específicos se coordinan de forma personalizada con el capítulo.
+3. **Conversión directa:** Canales de contacto diferenciados vía correo electrónico con asuntos predefinidos para organizaciones y para estudiantes postulantes.
 
 ---
 
-## ⚡ Stack Tecnológico y Arquitectura
+## Arquitectura y Tecnologías
 
-Para este proyecto se tomó la decisión deliberada de utilizar un **stack web nativo (Vanilla)**, priorizando rendimiento extremo, cero fricción de compilación y máxima accesibilidad:
+El proyecto se construyó deliberadamente con tecnologías web estándar sin frameworks de cliente (React, Vue o similares), con el objetivo de eliminar sobrecarga de dependencias, minimizar tiempos de carga y mantener la base de código simple de auditar.
 
 ```mermaid
 flowchart TD
-    subgraph UI ["Capa de Presentación"]
-        HTML["HTML5 Semántico<br/>(Landmarks, a11y, Skip Link, Picture)"]
-        CSS["CSS3 Moderno<br/>(Custom Properties, Grid/Flexbox, Clip-Path, Keyframes)"]
+    subgraph UI ["Presentación"]
+        HTML["HTML5 Semántico<br/>(Landmarks, a11y, Skip Link)"]
+        CSS["CSS3 Moderno<br/>(Tokens CSS, Grid/Flexbox, Clip-Path)"]
     end
 
-    subgraph Logic ["Lógica en el Cliente (Zero-Deps)"]
-        JS["Vanilla JavaScript (ES6+)<br/>(IntersectionObserver, Scroll State Machine, a11y focus)"]
+    subgraph Core ["Lógica Cliente (0 Dependencias)"]
+        JS["Vanilla JavaScript (ES6+)<br/>(IntersectionObserver, Scrollspy, a11y)"]
     end
 
-    subgraph DevOps ["Integración y Despliegue"]
-        GHA["GitHub Actions CI<br/>(Verificación sintáctica y de integridad)"]
-        GHP["GitHub Pages<br/>(Hosting estático global)"]
-        VERCEL["Vercel Compatible<br/>(Optimización de cabeceras de caché)"]
+    subgraph Infra ["Infraestructura y CI"]
+        GHA["GitHub Actions<br/>(Validación de sintaxis y archivos)"]
+        GHP["GitHub Pages<br/>(Despliegue estático)"]
+        VERCEL["Vercel<br/>(Configuración de caché HTTP)"]
     end
 
     HTML --> JS
     CSS --> HTML
-    JS --> DevOps
+    JS --> Infra
 ```
 
-### Componentes Técnicos Clave
+### Detalle del Stack
 
-| Tecnología | Rol en el Proyecto | Justificación de Ingeniería |
-| :--- | :--- | :--- |
-| **HTML5 Semántico** | Estructura & Accesibilidad | Uso de etiquetas semánticas (`<header>`, `<main>`, `<section>`, `<article>`, `<figure>`, `<footer>`, `<details>`), atributos `aria-*` dinámicos y enlaces de salto (*skip-link*) para cumplir estándares WCAG. |
-| **CSS3 Moderno & Variables** | Sistema de Diseño & Layout | Arquitectura basada en tokens CSS (`--lime`, `--green`, `--forest`, `--ink`), CSS Grid fluido, composición angular mediante `clip-path: polygon()`, y backdrop-filters de alto rendimiento. |
-| **Vanilla JavaScript (ES6+)** | Interactividad & Animaciones | **0 dependencias externas.** Aprovechamiento de APIs nativas de alta eficiencia: `IntersectionObserver` para scrollspy y reveal animations, listeners pasivos y manejo de accesibilidad con teclado. |
-| **Vercel / GitHub Pages** | Infraestructura & CDN | Despliegue inmediato en el edge, con reglas de caché inmutable para assets estáticos y cabeceras configuradas en `vercel.json`. |
-| **GitHub Actions** | Integración Continua (CI) | Pipeline automatizado que valida integridad de archivos clave y sintaxis de JavaScript en cada push o pull request. |
+- **HTML5 Semántico:** Marcado con etiquetas de estructura (`<header>`, `<main>`, `<section>`, `<article>`, `<figure>`, `<footer>`, `<details>`), textos alternativos descriptivos, enlaces de omisión (`.skip-link`) y soporte para atributos ARIA de navegación.
+- **CSS3 Moderno:** Variables CSS para el sistema de diseño, composición mediante `display: grid` y `flexbox`, recortes visuales con `clip-path: polygon()`, y transiciones de aceleración gráfica por hardware.
+- **JavaScript (ES6+ puro):** Menos de 3 KB de script sin comprimir. Utiliza `IntersectionObserver` nativo para animaciones de revelado y seguimiento de sección activa en la barra de navegación, sin recurrir a bibliotecas externas.
+- **Optimización de Assets:** Formatos WebP y AVIF para retratos de equipo, SVG vectorial en el imagotipo y curva del hero, y metadatos Open Graph (`assets/og-image.jpg`) para previsualizaciones en redes sociales y mensajería.
+- **GitHub Actions:** Flujo de integración continua que verifica la presencia de archivos críticos y ejecuta pruebas de sintaxis JavaScript en cada commit.
 
 ---
 
-## 🎨 Identidad Gráfica y Sistema de Diseño
+## Sistema de Diseño e Identidad
 
-El diseño traduce la guía visual de **180 Degrees Consulting** y la adapta a una estética digital moderna y sofisticada:
+El diseño toma como base la paleta de identidad de 180 Degrees Consulting y la normaliza en tokens CSS:
 
-### 1. Paleta Cromática y Tokens CSS
+### Paleta de Color
 ```css
 :root {
-  /* Marca e Identidad */
-  --green:  #4d9136; /* Verde institucional equilibrado */
-  --lime:   #80dc54; /* Acento dinámico de alta energía (inspirado en #73B744 / #90C03E) */
-  --forest: #315f3b; /* Tono de contraste para etiquetas y subtítulos */
-  
-  /* Superficies y Tipografía */
-  --ink:    #191b1a; /* Tinta oscura profunda para fondos y texto */
-  --dark:   #1c1e1d; /* Superficies secundarias oscuras */
-  --paper:  #fafbf8; /* Fondo claro marfil para descanso visual */
-  --muted:  #5c625e; /* Texto descriptivo atenuado */
-  --line:   #d6ddd5; /* Bordes estructurales sutiles */
+  --green:  #4d9136; /* Verde institucional */
+  --lime:   #80dc54; /* Tono de acento interactivo */
+  --forest: #315f3b; /* Verde oscuro para etiquetas y contrastes */
+  --ink:    #191b1a; /* Tinta oscura para texto y fondos contrastados */
+  --dark:   #1c1e1d; /* Fondo secundario oscuro */
+  --paper:  #fafbf8; /* Superficie clara */
+  --muted:  #5c625e; /* Texto descriptivo secundario */
+  --line:   #d6ddd5; /* Delimitadores estructurales */
 }
 ```
 
-### 2. Tipografía Optimizada para Pantalla
-- **Titulares (`--display`):** `Manrope`, sans-serif geométrica con terminaciones modernas, inspirada en la presencia corporativa de *Avenir*.
-- **Cuerpo de Texto (`--body`):** `DM Sans`, de alta legibilidad en pantallas retina y tamaños compactos, inspirada en la neutralidad de *Lato*.
-- **Preconexión a fuentes:** `<link rel="preconnect">` implementado para eliminar retrasos de renderizado (FOIT/FOUT).
+### Tipografía
+- **Titulares:** `Manrope` (Google Fonts), sans-serif geométrica seleccionada como equivalente web accesible al estilo institucional de *Avenir*.
+- **Texto continuo:** `DM Sans` (Google Fonts), elegida por su legibilidad en pantallas compactas y relación con *Lato*.
 
-### 3. Storytelling Visual & Geometría
-- **Arco Vectorial SVG Dinámico:** El hero incorpora una curva fluida SVG (`pathLength="100"`) que se dibuja automáticamente al cargar la página mediante `@keyframes draw-arc`, simbolizando el giro de 180° y la dirección estratégica.
-- **Composición Fotográfica Multinivel:** Técnica de máscaras diagonales (`clip-path: polygon(...)`) y degradados alpha que fusionan las fotografías de los talleres y el equipo directivo con el fondo oscuro institucional.
+### Elementos Gráficos
+- **Curva SVG animada:** Trazado vectorial dinámico en el hero que ilustra la idea de movimiento y cambio de dirección, animado mediante `stroke-dasharray` y `stroke-dashoffset`.
+- **Composición fotográfica angular:** Máscaras angulares mediante `clip-path` para integrar retratos de equipo y talleres con el fondo oscuro.
 
 ---
 
-## 💡 Aporte y Decisiones de Ingeniería Frontend
+## Decisiones Técnicas y Frontend
 
-Como desarrollador frontend, este repositorio demuestra habilidades prácticas aplicables a productos digitales en producción:
-
-### 1. Arquitectura de Cero Dependencias (Zero-Dependency Mindset)
-En lugar de sobrecargar una página de aterrizaje con frameworks pesados (React, Next.js, librerías infladas de animación) que incrementan el bundle size a megabytes, la landing se construyó íntegramente con capacidades web modernas nativas:
-- **Peso total de scripts:** `< 3 KB` sin minificar (frente a los ~150-300 KB que introduciría un runtime de framework).
-- **Tiempo de bloqueo del hilo principal (TBT):** Prácticamente `0 ms`.
-- **First Contentful Paint (FCP) y LCP ultra rápidos**, garantizando una experiencia instantánea en redes móviles.
-
-### 2. Animaciones Escalables con `IntersectionObserver`
-- Las animaciones de revelado (`[data-reveal]`) están desacopladas del hilo principal de scroll:
-  ```javascript
-  const observer = new IntersectionObserver((entries) => {
-    for (const entry of entries) {
-      if (entry.isIntersecting) {
-        entry.target.classList.add('is-visible');
-        observer.unobserve(entry.target); // Libera memoria de inmediato
-      }
-    }
-  }, { rootMargin: '0px 0px -45px 0px', threshold: 0.05 });
-  ```
-- Soporte estricto para usuarios con sensibilidad al movimiento mediante consulta de medios:
+### 1. Manejo Eficiente de Animaciones y Scroll
+- Las animaciones de revelado (`[data-reveal]`) se controlan mediante `IntersectionObserver`. Cuando un elemento entra en el área visible, se le añade la clase `.is-visible` y se desuscribe del observador para evitar consumo residual de CPU o memoria.
+- Se respeta la directiva de accesibilidad del sistema operativo:
   ```javascript
   if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-    // Desactiva animaciones de desplazamiento respetando la accesibilidad del SO
+    reveals.forEach((element) => element.classList.add('is-visible'));
   }
   ```
 
-### 3. Header Inteligente y Scrollspy en Tiempo Real
-- Detección precisa de la sección activa mientras el usuario se desplaza, actualizando `aria-current="location"` dinámicamente en los enlaces de la barra de navegación.
-- Transición de contraste bifásica: el encabezado cambia su tamaño y aplica `backdrop-filter: blur(16px)` al hacer scroll, adaptando sus colores al pasar de la sección oscura (Hero) a las secciones claras (Propósito y Equipo).
+### 2. Barra de Navegación y Scrollspy
+- El encabezado cambia su tamaño y aplica `backdrop-filter: blur(16px)` una vez superados los primeros 30px de desplazamiento vertical.
+- Un segundo `IntersectionObserver` monitorea qué sección del documento ocupa la mayor proporción de la ventana gráfica, actualizando la clase activa y el atributo `aria-current="location"` en el enlace correspondiente del menú.
 
-### 4. Accesibilidad (a11y) y Experiencia de Usuario (UX)
-- **Skip Link funcional:** Permite a usuarios de lectores de pantalla saltar directamente al contenido principal (`#contenido`).
-- **Navegación Móvil Accesible:** El botón de menú conmuta los estados `aria-expanded` y `aria-label`, y se cierra automáticamente con la tecla `Escape` o al seleccionar cualquier enlace.
-- **Foco Visible de Alto Contraste:** Estilos personalizados `:focus-visible` con anillo lime `#80dc54` para navegación con teclado.
-- **Acordeones Nativos:** La sección de *Enfoques* utiliza `<details class="focus-item" name="focus">`, permitiendo funcionamiento nativo de acordeón exclusivo (HTML5) sin librerías externas.
+### 3. Accesibilidad de Navegación
+- Menú móvil con manejo de estado sincronizado: alternancia de `aria-expanded` y `aria-label` en el botón de activación.
+- El menú se cierra automáticamente al pulsar `Escape` o al seleccionar cualquier enlace interno, restableciendo el scroll del documento (`overflow: hidden` en `body.menu-open`).
+- Foco visible accesible (`:focus-visible`) con contorno de alto contraste sobre fondo oscuro y claro.
 
-### 5. Optimización de Medios y Formatos de Nueva Generación
-- Inclusión de formatos de última generación (`.webp`, `.avif`, `.svg`).
-- Implementación de `fetchpriority="high"` en la imagen principal del hero y `loading="lazy"` en todas las imágenes bajo el pliegue (*below-the-fold*).
-- Metadatos completos de **Open Graph** y **Twitter Cards** con imagen pre-generada (`og-image.jpg` 1200x630) para previsualizaciones impecables al compartir en LinkedIn, WhatsApp o Twitter.
+### 4. Acordeones Nativos sin JavaScript
+- La sección de *Enfoques* utiliza elementos `<details class="focus-item" name="focus">`. Al compartir el atributo `name`, el navegador gestiona automáticamente el comportamiento exclusivo (solo un panel abierto a la vez) sin requerir código JavaScript adicional.
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura de Archivos
 
 ```text
 180dc-upc-ns/
@@ -174,81 +144,70 @@ En lugar de sobrecargar una página de aterrizaje con frameworks pesados (React,
 │       └── ci.yml               # Pipeline de validación de sintaxis e integridad
 ├── assets/
 │   ├── 180dc-upc-logo.png       # Logotipo institucional
-│   ├── og-image.jpg             # Tarjeta social de alta resolución (Open Graph)
-│   ├── favicon.png              # Favicon institucional
-│   ├── upc-campus.png           # Fotografía del campus UPC
-│   ├── equipo-hero-editado.png  # Composición del hero (equipo)
-│   ├── taller-hero-editado.png  # Composición del hero (taller en acción)
-│   ├── workshop-photo.jpg       # Fotografía de taller de trabajo
-│   ├── ig-*.jpg                 # Muestras de publicaciones de la comunidad
-│   └── *.webp / *.avif          # Retratos optimizados del equipo directivo
+│   ├── og-image.jpg             # Imagen de previsualización para Open Graph
+│   ├── favicon.png              # Icono de pestaña
+│   ├── upc-campus.png           # Imagen de campus UPC
+│   ├── equipo-hero-editado.png  # Fotomontaje del hero (equipo)
+│   ├── taller-hero-editado.png  # Fotomontaje del hero (taller)
+│   ├── workshop-photo.jpg       # Fotografía de taller
+│   ├── ig-*.jpg                 # Capturas de actividad comunitaria
+│   └── *.webp / *.avif          # Retratos individuales del equipo
 ├── docs/
-│   └── screenshots/             # Capturas de pantalla reales (Desktop & Mobile)
-├── .gitignore                   # Exclusiones estándar y de temporales
-├── index.html                   # Documento HTML5 semántico y accesible
-├── LICENSE                      # Licencia de código abierto MIT
-├── package.json                 # Metadatos del proyecto y scripts de desarrollo
-├── README.md                    # Documentación técnica y portafolio profesional
-├── script.js                    # Lógica Vanilla JS (IntersectionObserver, Scrollspy, a11y)
-├── styles.css                   # Sistema de diseño, tokens CSS, responsive y animaciones
-└── vercel.json                  # Configuración de despliegue y caché estática en Vercel
+│   └── screenshots/             # Capturas de pantalla reales (Desktop y Mobile)
+├── .gitignore                   # Reglas de exclusión de git
+├── index.html                   # Estructura semántica y metadatos SEO / Open Graph
+├── LICENSE                      # Licencia MIT
+├── package.json                 # Definición de proyecto y scripts de ejecución
+├── README.md                    # Documentación del proyecto
+├── script.js                    # Interactividad cliente (IntersectionObserver, scroll, a11y)
+├── styles.css                   # Sistema de diseño, diseño adaptativo y animaciones
+└── vercel.json                  # Reglas de caché y enrutamiento para Vercel
 ```
 
 ---
 
-## 🛠️ Ejecución Local
+## Ejecución Local
 
-Dado que el proyecto utiliza tecnologías web nativas, no requiere compiladores, transpiladores ni procesos pesados de build. Puedes ejecutarlo localmente con cualquiera de las siguientes opciones:
+El proyecto no requiere compilación previa. Se puede servir de forma local mediante cualquiera de estos métodos:
 
-### Opción 1: Con Node.js / npx (Recomendado)
+### Con Node.js
 ```bash
-# Clonar el repositorio
 git clone https://github.com/JulioXC4/180dc-upc-ns.git
 cd 180dc-upc-ns
-
-# Iniciar servidor local
 npm start
-# O alternativamente:
-npx serve .
 ```
 
-### Opción 2: Con Python
+### Con Python
 ```bash
 python -m http.server 3000
-# Abre http://localhost:3000 en tu navegador
 ```
+Luego abrir `http://localhost:3000` en el navegador.
 
-### Opción 3: Con la extensión Live Server de VS Code
-1. Abre la carpeta del proyecto en **Visual Studio Code**.
-2. Haz clic derecho en [`index.html`](index.html) y selecciona **"Open with Live Server"**.
-
----
-
-## 🚀 Despliegue en Producción
-
-### GitHub Pages (Configurado)
-El repositorio cuenta con despliegue continuo en **GitHub Pages** desde la rama `main`:
-- **URL activa:** [https://julioxc4.github.io/180dc-upc-ns/](https://julioxc4.github.io/180dc-upc-ns/)
-
-### Despliegue en Vercel
-El repositorio está preparado para importarse directamente en [Vercel](https://vercel.com):
-1. Importa el repositorio `JulioXC4/180dc-upc-ns` desde el dashboard de Vercel.
-2. Vercel detectará el archivo [`vercel.json`](vercel.json) y aplicará automáticamente las directivas de caché y URLs limpias.
-3. Despliegue en 1 clic sin pasos de configuración adicionales.
+### Con Live Server (VS Code)
+Abrir el archivo [`index.html`](index.html) en Visual Studio Code y seleccionar **"Open with Live Server"**.
 
 ---
 
-## 👤 Autor y Contacto
+## Despliegue
 
-**Julio C. (JulioXC4)**  
-*Desarrollador Frontend & Creador de Experiencias Web*
+### GitHub Pages
+El sitio se publica automáticamente desde la rama `main`:
+- URL: [https://julioxc4.github.io/180dc-upc-ns/](https://julioxc4.github.io/180dc-upc-ns/)
 
-- **GitHub:** [@JulioXC4](https://github.com/JulioXC4)
-- **Repositorio:** [github.com/JulioXC4/180dc-upc-ns](https://github.com/JulioXC4/180dc-upc-ns)
-- **Demo:** [julioxc4.github.io/180dc-upc-ns](https://julioxc4.github.io/180dc-upc-ns/)
+### Vercel
+Compatible mediante importación directa del repositorio. El archivo [`vercel.json`](vercel.json) define cabeceras `Cache-Control: public, max-age=31536000, immutable` para la carpeta `/assets/`.
 
 ---
 
-## 📄 Licencia
+## Autor
 
-Este proyecto está bajo la Licencia [MIT](LICENSE). Las marcas comerciales, logotipos institucionales y fotografías de miembros pertenecen a sus respectivos titulares y a **180 Degrees Consulting / UPC**.
+**Julio C. (JulioXC4)**
+
+- GitHub: [@JulioXC4](https://github.com/JulioXC4)
+- Repositorio: [github.com/JulioXC4/180dc-upc-ns](https://github.com/JulioXC4/180dc-upc-ns)
+
+---
+
+## Licencia
+
+Distribuido bajo la Licencia [MIT](LICENSE). Las marcas, logotipos y nombres institucionales pertenecen a 180 Degrees Consulting y a la Universidad Peruana de Ciencias Aplicadas.
